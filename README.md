@@ -6,7 +6,7 @@ Ferramenta que permite:
 • Listagem das notícias cadastradas;  
 • Visualização da notícia.  
 
-Para deixar o projeto funcionando é necessário rodar os seguintes comandos:
+Para deixar o projeto funcionando é necessário executar os seguintes comandos:
 ```
 php artisan migrate
 
