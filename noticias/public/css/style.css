@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400;1,600&display=swap');
+
+
+body {
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: auto;
+}
+
+form .btn {
+    margin-top: 15px;
+}
+
+nav h1 {
+    margin-left: 20px;
+}
+
+nav a:nth-child(2) {
+    margin-right: 20px;
+}
+
+#show-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#show-img {
+    max-height: 350px;
+    max-width: 525px;
+}
+
+#desc-card {
+    max-height: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+#main-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#show-content-div,
+#image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#image-container {
+    margin: 20px;
+    max-height: 400px;
+    max-width: 600px;
+}
+
+#info-container-text {
+    text-align: justify;
+    min-width: 600px;
+    max-width: 620px;
+}
+
+#card-img {
+    margin: 20px; 
+    overflow: auto;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+}
