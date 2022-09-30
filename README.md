@@ -1,4 +1,4 @@
-#Cadastro de notícias em Laravel
+# Cadastro de notícias em Laravel
 
 Ferramenta que permite:  
 
@@ -6,8 +6,12 @@ Ferramenta que permite:
 • Listagem das notícias cadastradas;  
 • Visualização da notícia.  
 
-<img src="img/readme1.png" width=400px>
+Tela de cadastro:  
+<img src="img/readme3.png" width=800px>  
 
-<img src="img/readme2.png" width=400px>
+Lista de notícias:  
+<img src="img/readme1.png" width=800px>
 
-<img src="img/readme3.png" width=400px>
+View da notícia:  
+<img src="img/readme2.png" width=800px>  
+
