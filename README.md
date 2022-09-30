@@ -6,6 +6,14 @@ Ferramenta que permite:
 • Listagem das notícias cadastradas;  
 • Visualização da notícia.  
 
+Para deixar o projeto funcionando é necessário rodar os seguintes comandos:
+```
+php artisan migrate
+
+php artisan db:seed
+
+```
+
 Tela de cadastro:  
 <img src="img/readme3.png" width=800px>  
 
