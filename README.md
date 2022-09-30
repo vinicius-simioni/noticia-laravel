@@ -11,7 +11,6 @@ Para deixar o projeto funcionando é necessário rodar os seguintes comandos:
 php artisan migrate
 
 php artisan db:seed
-
 ```
 
 Tela de cadastro:  
