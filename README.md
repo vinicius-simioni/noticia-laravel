@@ -6,8 +6,8 @@ Ferramenta que permite:
 • Listagem das notícias cadastradas;  
 • Visualização da notícia.  
 
-<img href=/img/readme1.png>
+<img src="img/readme1.png" width=400px>
 
-<img href=/img/readme2.png>
+<img src="img/readme2.png" width=400px>
 
-<img href=/img/readme3.png>
+<img src="img/readme3.png" width=400px>
